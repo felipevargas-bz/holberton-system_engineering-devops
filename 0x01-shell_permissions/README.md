@@ -1,0 +1,1 @@
+this is my readme for shell permi and the script
