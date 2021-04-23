@@ -1,6 +1,6 @@
 <img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png' alt='Banner' width=100%>
 
-# Shell, init files, variables and expansions
+# 0x03-shell_variables_expansions
 
 In this project, I learned about initialization files, local, global, and
 reserved variables, and special parameters in the Shell. Further, I practiced
