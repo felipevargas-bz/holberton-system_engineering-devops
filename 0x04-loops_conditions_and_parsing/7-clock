@@ -2,12 +2,13 @@
 # This script is displaying "Holberton School" 10 times
 i="1"
 h="1"
+m="1"
 
 while [ $h != "13" ]
 do
 	if [ $i == "60" ]
 	then
-		echo "Hour: "$h
+		echo "Hour: $h"
 		h=$((h+1))
 		i=$(("1"))
 	else
