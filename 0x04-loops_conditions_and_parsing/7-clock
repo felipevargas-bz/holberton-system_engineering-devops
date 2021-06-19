@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # This script is displaying "Holberton School" 10 times
-i="1"
 h="0"
 m="1"
 
@@ -9,13 +8,13 @@ h=$((h+1))
 
 while [ $h != "13" ]
 do
-	if [ $i == "60" ]
+	if [ $m == "60" ]
 	then
 		echo "Hour: $h"
 		h=$((h+1))
 		i=$(("1"))
 	else
-		echo $i
+		echo $m
 		i=$((i+1))
 	fi
 done
