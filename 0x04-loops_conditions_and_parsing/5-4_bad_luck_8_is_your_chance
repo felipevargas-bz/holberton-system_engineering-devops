@@ -4,19 +4,11 @@ i="0"
 
 while [ $i != "10" ]
 do
-if [ $i == "3" ]
-then
-		echo bad luck
-fi
-
-if [ $i == "7" ]
-then
-		echo good luck
-fi
-
-if [ $i != "3" ] && [ $i != "7" ]
-then
-		echo Holberton School
-fi
-i=$((i+1))
+	if [ $i == "3" ]
+	then echo bad luck
+	elif [ $i == "7" ]
+	then echo good luck
+	else echo Holberton School
+	fi
+	i=$((i+1))
 done
