@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 # This script is displaying "Holberton School" 10 times
 i="1"
-h="1"
+h="0"
 m="1"
+
+echo "Hour: $h"
+h=$((h+1))
 
 while [ $h != "13" ]
 do
