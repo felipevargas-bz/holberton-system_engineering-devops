@@ -3,18 +3,13 @@
 h="0"
 m="1"
 
-echo "Hour: $h"
-h=$((h+1))
-
-while [ $h != "13" ]
-do
-	if [ $m == "60" ]
-	then
-		echo "Hour: $h"
-		h=$((h+1))
-		i=$(("1"))
-	else
+while [ $h != "13" ]; do
+	echo "Hour: $h"
+	m=$(("1"))
+	while [ $m != 60 ]
+	do
 		echo $m
-		i=$((i+1))
-	fi
+		m=$((m+1))
+	done
+	h=$((h+1))
 done
