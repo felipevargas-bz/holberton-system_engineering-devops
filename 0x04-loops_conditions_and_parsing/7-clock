@@ -7,7 +7,7 @@ while [ $h != "13" ]
 do
 	if [ $i == "60" ]
 	then
-		echo "Hour:" $h
+		echo "Hour: "$h
 		h=$((h+1))
 		i=$(("1"))
 	else
