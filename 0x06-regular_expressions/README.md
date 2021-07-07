@@ -40,18 +40,14 @@ argument passed to it via the command line._
 * **7. OMG WHY ARE YOU SHOUTING?**
   * [7-OMG_WHY_ARE_YOU_SHOUTING.rb](./7-OMG_WHY_ARE_YOU_SHOUTING.rb): Ruby script that
   matches regular expressions of uppercase letters.
-
-* **8. Textme**
-  * [100-textme.rb](./100-textme.rb): Ruby script that runs statistics on TextMe app text
-  message transcations.
-  * Output: `[SENDER],[RECEIVER],[FLAGS]` where
-    * `[SENDER]` is the sender phone number or name (including country code
-    if present).
-    * `[RECEIVER]` is the receiver phone number or name (including country code
-    if present).
-    * `[FLAGS]` is the flags that were used.
-
-* **9. Pass LinkedIn technical interview level0**
-  * [101-passed_linkedin_regex_challenge.jpg](./101-passed_linkedin_regex_challenge.jpg):
-  Screenshot signifying completion of the
-  [LinkedIn Engineering Regex Puzzle](https://engineering.linkedin.com/puzzle).
+  
+ # Social media
+ 
+ <p align="center">
+&nbsp; <a href="https://twitter.com/felipevargas_bz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/profile.php?id=100028222452093" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50" /></a>
+&nbsp; <a href="https://www.youtube.com/channel/UCFrPLo_zV_OYjL5WFtGrN3A" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/angel-felipe-vargas-benitez-9a6592206/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="50" /></a>
+&nbsp; <a href="mailto:felipevargas.bz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  width="50" /></a>
+&nbsp; <a href="https://devfelipevargas.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="50" /></a>
+</p>
