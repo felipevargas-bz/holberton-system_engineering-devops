@@ -44,38 +44,13 @@ with `ps`, `pgrep`, `pkill`, `pkill`, `exit`, and `trap`.
   * [8-beheaded_process](./8-beheaded_process): Bash script that kills the process
   [7-highlander](./7-highlander).
 
-* **9. Process and PID file**
-  * [100-process_and_pid_file](./100-process_and_pid_file): Bash script that creates the file
-  `/var/run/holbertonscript.pid` containing its PID and displays `To infinity and
-  beyond` indefinitely.
-  * Displays `I hate the kill command` upon receiving a `SIGTERM` signal.
-  * Displays `Y U no love me?!` upon receiving a `SIGINT` signal.
-  * Deletes the file `/var/run/holbertonscript.pid` and terminates itself
-  upon receiving the `SIGQUIT` or `SIGTERM` signal.
+# Social media
 
-* **10. Manage my process**
-  * [manage_my_process](./manage_my_process): Bash script that writes `I am alive!` to the file
-  `/tmp/my_process` indefinitely.
-    * Sleeps two seconds in between each write.
-  * [101-manage_my_process](./101-manage_my_process): Bash script that manages the
-  [manage_my_process](./manage_my_process) script.
-  * When passed the argument `start`:
-    * Starts [manage_my_process](./manage_my_process).
-    * Creates a file containing its PID in `/var/run/my_process.pid`.
-    * Displays `manage_my_process started`.
-  * When passed the argument `stop`:
-    * Stops [manage_my_process](./manage_my_process).
-    * Deletes the file `/var/run/my_process.pid`.
-    * Displays `manage_my_process stopped`.
-  * When passed the argument `restart`:
-    * Stops [manage_my_process](./manage_my_process).
-    * Deletes the file `/var/run/my_process.pid`.
-    * Starts `manage_my_process`.
-    * Creates a file containing its PID in `/var/run/my_process.pid`.
-    * Displays `manage_my_process started`.
-  * Otherwise, displays `Usage: manage_my_process {start|stop|restart}`.
-
-* **11. Zombie**
-  * [102-zombie.c](./102-zombie.c): C program that creates five zombie processes.
-  * For every zombie created, displays `Zombie process created, PID:
-  <ZOMBIE_PID>`.
+<p align="center">
+&nbsp; <a href="https://twitter.com/felipevargas_bz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/profile.php?id=100028222452093" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50" /></a>
+&nbsp; <a href="https://www.youtube.com/channel/UCFrPLo_zV_OYjL5WFtGrN3A" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/angel-felipe-vargas-benitez-9a6592206/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="50" /></a>
+&nbsp; <a href="mailto:felipevargas.bz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  width="50" /></a>
+&nbsp; <a href="https://devfelipevargas.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="50" /></a>
+</p>
