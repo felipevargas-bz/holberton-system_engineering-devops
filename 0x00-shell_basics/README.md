@@ -1,8 +1,3 @@
-<img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png' alt='Banner' width=100%>
-
-
-
-
 # Shell, basics
 
 In this project, I underwent an introductory crash course in the Shell. I
