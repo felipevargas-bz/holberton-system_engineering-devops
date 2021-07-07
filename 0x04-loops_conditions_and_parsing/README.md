@@ -2,8 +2,6 @@
 
 In this project, I began working loops and conditionals statemetns in Bash.
 
-## Helper File :raised_hands:
-
 ## Tasks :page_with_curl:
 
 * **0. Create a SSH RSA key pair**
